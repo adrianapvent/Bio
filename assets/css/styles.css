@@ -69,6 +69,12 @@ header a {
     align-items: center;
 }
 
+.employment-section {
+    font-size: 20px;
+    align-items: center;
+    padding: 10%;
+}
+
 .main-container {
     display: flex;
     justify-content: center;
@@ -82,27 +88,13 @@ header a {
     width: 250px;
 }
 
-
-.portfolio-projects {
-    background-color: var(--first-color);
-    text-align: center;
+.card {
+    padding: 10%;
+    margin: 50px;
 }
 
-
-.portfolio-projects ul {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-}
-.portfolio-projects ul li img {
-    height: 200px;
-    width: 180px;
-    margin: 5px;
-}
-.portfolio-projects ul li a img {
-    height: 200px;
-    width: 360px;
-    margin: 5px;
+.card-title {
+    font-weight: 700;
 }
 
 .contact-info {
