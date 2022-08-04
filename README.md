@@ -8,6 +8,8 @@
 
 06/14/2022- 16-week progression in ability to understand higher level concepts such as Sequelize, Express, Node, bcrypt, and Heroku. README updates made to Bio. Planning for future edits.
 
+08/04/2022- 24-week progress. Now with increased knowledge working with MongoDB, mongoose and React. README updates made to Bio. Planning for future edits.
+
 
 ## Installation
 VS Code
@@ -32,6 +34,9 @@ Also if your project will require authentication like passwords or usernames, th
 - bcrypt.js- to hash passwords before storing in database
 - Heroku- cloud platform
 - Node.js- open-source, cross-platform back-end Javascript runtime environment
+- React
+- MongoDB
+- Mongoose
 
 
 ## Collaborators
