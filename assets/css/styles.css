@@ -15,6 +15,11 @@ body {
     font-family: sans-serif, Helvetica, Arial, Helvetica, sans-serif;
 }
 
+body img {
+    height: 25em;
+
+}
+
 header {
     padding: 15px 20px;
     display: flex;
@@ -58,6 +63,7 @@ header a {
     align-items: center;
     gap: 25px;
     margin: 10px 10px;
+    background-color: #6ef7f7;
 }
 
 .portfolio-nav__ul a {
@@ -73,6 +79,7 @@ header a {
     font-size: 20px;
     align-items: center;
     padding: 5%;
+    background-color: #6ef7f7;
 }
 
 .main-container {
